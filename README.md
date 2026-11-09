@@ -150,4 +150,4 @@ The dataset is downloaded by the notebook and is not included in this project fo
 - Reassess performance on normal images and evaluate generalization on additional data.
 
 ## Author
-Add your name and academic details here.
+Prayag Manoj Maru
